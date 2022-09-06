@@ -1,6 +1,6 @@
 file_type: csv
 dataset_name: train_df_new
-file_name: truncated_train
+file_name: train_new
 inbound_delimiter: ","
 outbound_delimiter: "|"
 skip_leading_rows: 1
